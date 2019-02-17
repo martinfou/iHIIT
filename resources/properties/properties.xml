@@ -56,25 +56,25 @@
 		
 		<!-- WORKOUT #3 -->	
 		<property id="workout_3_divider" type="string">|---------- WORKOUT #3 ----------|</property>
-		<property id="workout_3_title" type="string">iHIIT - Glutes</property>
-		<property id="workout_3_enabled" type="boolean">false</property>
-		<property id="workout_3_exercise_duration" type="number">40</property>
-		<property id="workout_3_rest_duration" type="number">20</property>
-		<property id="workout_3_exercise_1_title" type="string">Jump squats</property>
-		<property id="workout_3_exercise_2_title" type="string">Sumo squats</property>
-		<property id="workout_3_exercise_3_title" type="string"></property>
-		<property id="workout_3_exercise_4_title" type="string"></property>
-		<property id="workout_3_exercise_5_title" type="string"></property>
-		<property id="workout_3_exercise_6_title" type="string"></property>
-		<property id="workout_3_exercise_7_title" type="string"></property>
-		<property id="workout_3_exercise_8_title" type="string"></property>
-		<property id="workout_3_exercise_9_title" type="string"></property>
-		<property id="workout_3_exercise_10_title" type="string"></property>
-		<property id="workout_3_exercise_11_title" type="string"></property>
-		<property id="workout_3_exercise_12_title" type="string"></property>
-		<property id="workout_3_exercise_13_title" type="string"></property>
-		<property id="workout_3_exercise_14_title" type="string"></property>
-		<property id="workout_3_exercise_15_title" type="string"></property>
+		<property id="workout_3_title" type="string">iHIIT - Burpee Circuit</property>
+		<property id="workout_3_enabled" type="boolean">true</property>
+		<property id="workout_3_exercise_duration" type="number">3</property>
+		<property id="workout_3_rest_duration" type="number">3</property>
+		<property id="workout_3_exercise_1_title" type="string">Front Squat to press</property>
+		<property id="workout_3_exercise_2_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_3_title" type="string">Dumbbell deadlift</property>
+		<property id="workout_3_exercise_4_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_5_title" type="string">Dumbbell Half-kneeling</property>
+		<property id="workout_3_exercise_6_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_7_title" type="string">Lateral Lunge</property>
+		<property id="workout_3_exercise_8_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_9_title" type="string">Dumbbell Bendover Row</property>
+		<property id="workout_3_exercise_10_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_11_title" type="string">Dumbbell Pushup</property>
+		<property id="workout_3_exercise_12_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_13_title" type="string">Pushup</property>
+		<property id="workout_3_exercise_14_title" type="string">Burpee</property>
+		<property id="workout_3_exercise_15_title" type="string">Plank</property>
 		<property id="workout_3_exercise_16_title" type="string"></property>
 		<property id="workout_3_exercise_17_title" type="string"></property>
 		<property id="workout_3_exercise_18_title" type="string"></property>
@@ -83,24 +83,24 @@
 		
 		<!-- WORKOUT #4 -->
 		<property id="workout_4_divider" type="string">|---------- WORKOUT #4 ----------|</property>
-		<property id="workout_4_title" type="string"></property>
-		<property id="workout_4_enabled" type="boolean">false</property>
+		<property id="workout_4_title" type="string">2 rounds full body</property>
+		<property id="workout_4_enabled" type="boolean">true</property>
 		<property id="workout_4_exercise_duration" type="number">40</property>
 		<property id="workout_4_rest_duration" type="number">20</property>
-		<property id="workout_4_exercise_1_title" type="string"></property>
-		<property id="workout_4_exercise_2_title" type="string"></property>
-		<property id="workout_4_exercise_3_title" type="string"></property>
-		<property id="workout_4_exercise_4_title" type="string"></property>
-		<property id="workout_4_exercise_5_title" type="string"></property>
-		<property id="workout_4_exercise_6_title" type="string"></property>
-		<property id="workout_4_exercise_7_title" type="string"></property>
-		<property id="workout_4_exercise_8_title" type="string"></property>
-		<property id="workout_4_exercise_9_title" type="string"></property>
-		<property id="workout_4_exercise_10_title" type="string"></property>
-		<property id="workout_4_exercise_11_title" type="string"></property>
-		<property id="workout_4_exercise_12_title" type="string"></property>
-		<property id="workout_4_exercise_13_title" type="string"></property>
-		<property id="workout_4_exercise_14_title" type="string"></property>
+		<property id="workout_4_exercise_1_title" type="string">Plank</property>
+		<property id="workout_4_exercise_2_title" type="string">Squats</property>
+		<property id="workout_4_exercise_3_title" type="string">Lunges</property>
+		<property id="workout_4_exercise_4_title" type="string">Push ups</property>
+		<property id="workout_4_exercise_5_title" type="string">Lay down leg raises</property>
+		<property id="workout_4_exercise_6_title" type="string">Mountain climbers</property>
+		<property id="workout_4_exercise_7_title" type="string">Pike push ups</property>
+		<property id="workout_4_exercise_8_title" type="string">Plank</property>
+		<property id="workout_4_exercise_9_title" type="string">Squats</property>
+		<property id="workout_4_exercise_10_title" type="string">Lunges</property>
+		<property id="workout_4_exercise_11_title" type="string">Push ups</property>
+		<property id="workout_4_exercise_12_title" type="string">Lay down leg raises</property>
+		<property id="workout_4_exercise_13_title" type="string">Mountain climbers</property>
+		<property id="workout_4_exercise_14_title" type="string">Pike push ups</property>
 		<property id="workout_4_exercise_15_title" type="string"></property>
 		<property id="workout_4_exercise_16_title" type="string"></property>
 		<property id="workout_4_exercise_17_title" type="string"></property>
